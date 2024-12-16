@@ -8,5 +8,5 @@ xhofe/alist:latest
 node
 redis
 mongo
-mysql
 alist
+
